@@ -1,4 +1,4 @@
-![code](https://github.com/nickkennedi/nickkennedi/assets/115908031/f78b5714-d310-44f0-ac84-7f81fe5b1712)## Faaaala dev, Nick Aqui!
+## Faaaala dev, Nick Aqui!
 
 <div>
   
@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="https://github.com/nickkennedi/nickkennedi/assets/115908031/f78b5714-d310-44f0-ac84-7f81fe5b1712">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
