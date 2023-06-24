@@ -30,10 +30,10 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nickkennedi}/count.svg" /></p> 
 
-<br></div>
+<br></div> -->
   
 ![Snake animation](https://github.com/nickkennedi/nickkennedi/blob/output/github-contribution-grid-snake.svg)
