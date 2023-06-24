@@ -9,7 +9,7 @@ h## Faaaala dev, Nick Aqui!
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Tech Linguages <3</h1>
+    <h2 align="center">Tech Linguages <3</h2>
     <img align="center" alt="swift"  
             <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />    
     <img align="center"  alt="python" 
@@ -17,7 +17,7 @@ h## Faaaala dev, Nick Aqui!
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h2 align="center">Redes Sociais</h2>
     <a href = "mailto: nickconta10@gmail.com">
       <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
