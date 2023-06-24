@@ -7,10 +7,17 @@
 </div>
 <br>
 
-<div align="left">  
+<div>  
   
-<a href="https://www.linkedin.com/in/ellen-de-oliveira-pereira-4509321b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nick-kennedy99/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a  href="mailto: nickconta10@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a  href="https://www.instagram.com/nickkennedi/" target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+
 </div> 
+
+
 
 ### Tools:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
