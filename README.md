@@ -1,4 +1,4 @@
-## Faaaala dev, Nick Aqui!
+![code](https://github.com/nickkennedi/nickkennedi/assets/115908031/f78b5714-d310-44f0-ac84-7f81fe5b1712)## Faaaala dev, Nick Aqui!
 
 <div>
   
