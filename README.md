@@ -1,4 +1,4 @@
-## Faaaala dev, Nick Aqui!
+h## Faaaala dev, Nick Aqui!
 
 <div>
   
@@ -9,23 +9,23 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="swift"  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />    
-    <img align="center" height="30" width="40" alt="python" 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+    <h1 align="center">Tech Linguages <3</h1>
+    <img align="center" alt="swift"  
+            <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />    
+    <img align="center"  alt="python" 
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
    </div>
     
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: nickconta10@gmail.com">
-      <img width="30" src="icons8-gmail.gif">
+      <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href = "https://www.linkedin.com/in/nick-kennedy99/">
-      <img width="25" src="linkedin.svg">
+      <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href = "https://www.instagram.com/nickkennedi/">
-      <img width="25" src="instagram.png">
+      <img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
 </div>
   
