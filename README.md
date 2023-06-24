@@ -19,7 +19,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: nickconta10@gmail.com">
-      <img width="30" src="https://drive.google.com/file/d/1fUGxwhFqIORfNfgseEDaDQ--jTs7G0rt/view?usp=share_link">
+      <img width="30" src="">
     </a>
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
       <img width="25" src="linkedin.svg">
