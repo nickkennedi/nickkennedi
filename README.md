@@ -2,8 +2,9 @@
 
 <div>
   
-  <img   src="https://github-readme-stats.vercel.app/api?username=nickkennedi&show_icons=true&theme=great-gatsby&include_all_commits=true&count_public=true"/>
-  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickkennedi&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img   src="https://github-readme-stats-sigma-five.vercel.app/api?username=nickkennedi&show_icons=true&theme=great-gatsby&include_all_commits=true&count_public=true"/>
+ 
+  <img   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nickkennedi&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
