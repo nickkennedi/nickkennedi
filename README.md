@@ -1,11 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F11&size=35&center=true&vCenter=true&width=1000&lines=Falaa+Dev,+Nick+aqui!+:%29)](https://git.io/typing-svg)
 
-<div>
+### Welcome to my GitHub! :grin:
+   
+#### Hello, my name is Nick Kennedy. I'm a student of iOS mobile programming. Welcome to my GitHub, where you will find all my projects and studies.
+
+## Status:
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickkennedi&theme=moltack)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nickkennedi&theme=moltack&utcOffset=-3)|
+|---|---|
+<br> 
+
+
+|![](https://github-readme-streak-stats.herokuapp.com/?user=nickkennedi&theme=moltack&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=nickkennedi&theme=moltack&show_icons=true&hide_border=true&count_private=true)
+|---|---|
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nickkennedi&theme=moltack)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nickkennedi&theme=moltack)
   
-  <img   src="https://github-readme-stats-sigma-five.vercel.app/api?username=nickkennedi&show_icons=true&theme=great-gatsby&include_all_commits=true&count_public=true"/>
- 
-  <img   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nickkennedi&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
 <br>
 
 <div>  
@@ -46,4 +57,6 @@
 
 <br></div> -->
   
+## :snake: Activities :
+
 ![Snake animation](https://github.com/nickkennedi/nickkennedi/blob/output/github-contribution-grid-snake.svg)
