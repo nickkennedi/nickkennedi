@@ -59,4 +59,4 @@
   
 ## :snake: Activities :
 
-![Snake animation](https://github.com/nickkennedi/nickkennedi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MauricioMucci/MauricioMucci/blob/output/github-contribution-grid-snake.svg)
