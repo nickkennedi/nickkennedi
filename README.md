@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub! :grin:
    
-#### Hello, my name is Nick Kennedy. I'm a student of iOS mobile programming. Welcome to my GitHub, where you will find all my projects and studies.
+#### Hello, my name is Nick Kennedy. I'm a student of mobile programming. Welcome to my GitHub, where you will find all my projects and studies.
 
 ## Status:
 
