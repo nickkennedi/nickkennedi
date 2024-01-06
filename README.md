@@ -1,59 +1,36 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F11&size=35&center=true&vCenter=true&width=1000&lines=Falaa+Dev,+Nick+aqui!+:%29)](https://git.io/typing-svg)
 
 ### Welcome to my GitHub! :grin:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Olá, meu nome é Nick Kennedy, sou <strong>Desenvolvedor Android</strong> <br>
    
-#### Hello, my name is Nick Kennedy. I'm a student of mobile programming. Welcome to my GitHub, where you will find all my projects and studies.
-
-## Status:
-
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickkennedi&theme=moltack)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nickkennedi&theme=moltack&utcOffset=-3)|
-|---|---|
-<br> 
+  Faço parte do Dev Space, comunidade focada em desenvolvimento Android utilizando Kotlin como linguagem <br>
+</p>
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=nickkennedi&theme=moltack&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=nickkennedi&theme=moltack&show_icons=true&hide_border=true&count_private=true)
-|---|---|
-<br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nickkennedi&theme=moltack)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nickkennedi&theme=moltack)
+<p align="left">
   
-<br>
+   #### Minhas skills  💼
 
-<div>  
-  
-<a href="https://www.linkedin.com/in/nick-kennedy99/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+</p>
 
-<a  href="mailto: nickconta10@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p align="left">
+  💌 Quer saber mais? Entre em contato comigo ⤵️
+</p>
 
-<a  href="https://www.instagram.com/nickkennedi/" target="_blank"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=nickconta10@gmail.com" /></a>
 
-<a  href="https://www.tiktok.com/@nickkennedi" target="_blank"><img  src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickkennedi/" /></a>
 
-</div> 
-
-
-
-### Tools:
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-
-
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nickkennedi}/count.svg" /></p> 
-
-<br></div> -->
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5528999723853"/></a>
+</p>
   
