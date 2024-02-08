@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F11&size=35&center=true&vCenter=true&width=1000&lines=Falaa+Dev,+Nick+aqui!+:%29)](https://git.io/typing-svg)
 
-### Welcome to my GitHub! :grin:
+### Bem vindos ao meu GitHub! :grin:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá, meu nome é Nick Kennedy, sou <strong>Desenvolvedor Android</strong> <br>
    
-  Faço parte do Dev Space, comunidade focada em desenvolvimento Android utilizando Kotlin como linguagem <br>
+  Entusiasta, apaixonado pelo universo da inovação técnica e pela criação de experiências envolventes.  Contribuo ativamente para projetos pessoais e na busca constante por aprimoramento das minhas habilidades. <br>
 </p>
 
 
